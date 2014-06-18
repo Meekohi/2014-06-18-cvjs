@@ -3,3 +3,8 @@
 This repo goes with https://slides.com/michaelholroyd/asyncnodejs
 
 Some of the code works, some of it is simplified for demonstration and won't actually do anything useful.
+
+```
+npm install
+node cheerioexample.js
+```
