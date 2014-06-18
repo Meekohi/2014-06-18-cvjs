@@ -1,0 +1,17 @@
+{
+  "name": "cvjs_crawler_demo",
+  "version": "0.0.1",
+  "dependencies": {
+    "underscore":"latest",
+    "underscore.string":"latest",
+    "request":"latest",
+    "async":"latest",
+    "moment":"latest",
+    "cheerio":"latest",
+    "fs-extra":"latest"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  }
+}
